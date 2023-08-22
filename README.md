@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+-->
+
 - 🔭 I’m currently working on Application Integration & Deployment that includes working with helm charts on k8s, argoCD, ansible, security analysis of code using linting etc.
 - 🌱 I’m currently learning kubernetes, ArgoCD, cloud and Go
 - 👯 I’m looking to collaborate on cloud & k8s topics
